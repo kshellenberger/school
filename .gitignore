@@ -1,0 +1,4 @@
+.DS_Store
+.claude/
+*.pdf
+session_dump.json
